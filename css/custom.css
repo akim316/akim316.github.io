@@ -15,6 +15,7 @@ h6 {
 .portfolio-caption {
 	text-align: center;
 	color: #ffffff;
+	padding-bottom: 20px;
 }
 
 .portfolio-caption span {
@@ -24,10 +25,12 @@ h6 {
 }
 
 .portfolio-caption img {
+	border: 2px solid #ddd;
+	border-radius: 8px;
 	width: 400px;
 	height: 250px;
 	margin-bottom: 10px;
-	padding-top: 15px;
+	padding: 5px;
 }
 
 .img-circle {
@@ -47,7 +50,7 @@ h6 {
 .experience {
 	background-color: #42586e;
 	padding-top: 15px;
-	padding-bottom: 30px;
+	padding-bottom: 5px;
 }
 
 .intro {
